@@ -1,0 +1,15 @@
+/**/*.o
+/**/*.d
+/**/*.dep
+/**/*.crf
+/**/*.bak
+# /**/MDK-ARM/RTE/*
+# /**/MDK-ARM/DebugConfig/*
+# /**/MDK-ARM/STM32*_Nucleo/*
+
+
+
+/**/MDK-ARM/*
+!/**/MDK-ARM/*.uvoptx
+!/**/MDK-ARM/*.uvprojx
+!/**/MDK-ARM/*.s

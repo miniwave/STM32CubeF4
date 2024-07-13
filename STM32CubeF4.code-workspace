@@ -1,0 +1,79 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        "files.exclude": {
+            "Projects/STM32F4-Discovery": true,
+            "Projects/STM32446E_EVAL": true,
+            "Projects/STM32446E-Nucleo": true,
+            "Projects/STM32469I_EVAL": true,
+            "Projects/STM32469I-Discovery": true,
+            "Projects/STM324x9I_EVAL": true,
+            // "Projects/STM324xG_EVAL": true,//demo all
+            "Projects/STM324xG_EVAL/Applications/Camera": true,
+            "Projects/STM324xG_EVAL/Applications/Display": true,
+            "Projects/STM324xG_EVAL/Applications/EEPROM": true,
+            "Projects/STM324xG_EVAL/Applications/FatFs": true,
+            "Projects/STM324xG_EVAL/Applications/IAP": true,
+            "Projects/STM324xG_EVAL/Applications/LwIP": true,
+            "Projects/STM324xG_EVAL/Applications/LibJPEG": true,
+            "Projects/STM324xG_EVAL/Applications/mbedTLS": true,
+            // "Projects/STM324xG_EVAL/Applications/USB_Device": true,
+            // "Projects/STM324xG_EVAL/Applications/USB_Host": true,
+            "Projects/STM32F401-Discovery": true,
+            "Projects/STM32F401RE-Nucleo": true,
+            "Projects/STM32F410xx-Nucleo": true,
+            "Projects/STM32F411E-Discovery": true,
+            "Projects/STM32F411RE-Nucleo": true,
+            "Projects/STM32F412G-Discovery": true,
+            "Projects/STM32F412ZG-Nucleo": true,
+            "Projects/STM32F413H-Discovery": true,
+            "Projects/STM32F413ZH-Nucleo": true,
+            "Projects/STM32F429ZI-Nucleo": true,
+            "Projects/STM32F429I-Discovery": true,
+            "Projects/STM32F446ZE-Nucleo": true,
+            "Projects/WIN32": true
+        },
+        "search.exclude": {
+            "Projects/STM32F4-Discovery": true,
+            "Projects/STM32446E_EVAL": true,
+            "Projects/STM32446E-Nucleo": true,
+            "Projects/STM32469I_EVAL": true,
+            "Projects/STM32469I-Discovery": true,
+            "Projects/STM324x9I_EVAL": true,
+            "Projects/STM324xG_EVAL": true,
+            "Projects/STM324xG_EVAL/Applications/Camera": true,
+            "Projects/STM324xG_EVAL/Applications/Display": true,
+            "Projects/STM324xG_EVAL/Applications/EEPROM": true,
+            "Projects/STM324xG_EVAL/Applications/FatFs": true,
+            "Projects/STM324xG_EVAL/Applications/IAP": true,
+            "Projects/STM324xG_EVAL/Applications/LwIP": true,
+            "Projects/STM324xG_EVAL/Applications/LibJPEG": true,
+            "Projects/STM324xG_EVAL/Applications/mbedTLS": true,
+            // "Projects/STM324xG_EVAL/Applications/USB_Device": true,
+            // "Projects/STM324xG_EVAL/Applications/USB_Host": true,
+            "Projects/STM32F401-Discovery": true,
+            "Projects/STM32F401RE-Nucleo": true,
+            "Projects/STM32F410xx-Nucleo": true,
+            "Projects/STM32F411E-Discovery": true,
+            "Projects/STM32F411RE-Nucleo": true,
+            "Projects/STM32F412G-Discovery": true,
+            "Projects/STM32F412ZG-Nucleo": true,
+            "Projects/STM32F413H-Discovery": true,
+            "Projects/STM32F413ZH-Nucleo": true,
+            "Projects/STM32F429I-Discovery": true,
+            "Projects/STM32F446ZE-Nucleo": true,
+            "Projects/WIN32": true,
+            "Drivers/CMSIS/docs": true,
+        },
+        "files.associations": {
+            "main.h": "c",
+            "eeprom.h": "c",
+            "stm32f4xx_ll_usb.h": "c",
+            "arm_math.h": "c"
+        }
+    }
+}
